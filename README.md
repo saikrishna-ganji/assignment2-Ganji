@@ -28,3 +28,12 @@ Regarding me ![click to see my information](Aboutme.md)
 | France              | The architecture   | 17            |
 | Andaman Islands     | Beaches            | 10            |
 | India               | Culture and History| 18            |
+
+---
+
+# Pithy Quotes
+> This world  comedy to those that think, a tragedy to those that feels like.
+-*Horace Walpole*
+
+> The duty of comedy is to correct men by amusing them.
+-*Moliere*
