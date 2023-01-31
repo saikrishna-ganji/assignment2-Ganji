@@ -5,7 +5,7 @@ The game invloves a lot of **dedication** along with physical fitness.The game i
 
 ***  
 
-#### ordered list
+#### My favrouite team
 Portugal national football team
 1. Cristiano Ronaldo
 2. Eusebio
@@ -15,4 +15,16 @@ Portugal national football team
 * Manchester United
 * Liverpool FC
 
-About me ![click to see my photo](Aboutme.md)
+Regarding me ![click to see my information](Aboutme.md)
+
+***
+
+# Countries I recommend to visit
+ I recommend to visit the following places 
+
+| Country             | Reason             | No.of days    |
+|---------------------|--------------------|---------------|
+| Brazil              | Amazon Rainforest  | 24            |
+| France              | The architecture   | 17            |
+| Andaman Islands     | Beaches            | 10            |
+| India               | Culture and History| 18            |
