@@ -10,3 +10,7 @@ Portugal national football team
 1. Cristiano Ronaldo
 2. Eusebio
 3. Figo
+
+* Manchester City
+* Manchester United
+* Liverpool FC
