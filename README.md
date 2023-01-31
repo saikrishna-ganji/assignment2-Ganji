@@ -37,3 +37,22 @@ Regarding me ![click to see my information](Aboutme.md)
 
 > The duty of comedy is to correct men by amusing them.
 -*Moliere*
+
+---
+
+# Code fencing
+ [Link to javaScript code snippet](https://css-tricks.com/snippets/sass/simplifying-contexts-events/)
+ 
+ ```
+ .my-element {
+    color: red;
+
+    &:hover,
+    &:active, 
+    &:focus {
+        color: blue;
+    }
+}
+
+ ```
+ [Link To StackOverflow](https://stackoverflow.com/questions/tagged/javascript)
