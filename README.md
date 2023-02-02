@@ -41,7 +41,7 @@ Regarding me ![click to see my information](Aboutme.md)
 ---
 
 # Code fencing
- [Link to javaScript code snippet](https://css-tricks.com/snippets/sass/simplifying-contexts-events/)
+ >[Link to javaScript code snippet](https://css-tricks.com/snippets/sass/simplifying-contexts-events/)
  
  ```
  .my-element {
